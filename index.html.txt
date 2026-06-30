@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>PCCS Mexico | Cámaras de Seguridad CCTV</title>
+
+<link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+<h1>PCCS Mexico</h1>
+<p>Protección • Confianza • Seguridad</p>
+</div>
+
+<nav>
+
+<a href="#">Inicio</a>
+<a href="#">Productos</a>
+<a href="#">Servicios</a>
+<a href="#">Nosotros</a>
+<a href="#">Contacto</a>
+
+</nav>
+
+</header>
+
+<section class="banner">
+
+<h2>Expertos en Seguridad Electrónica</h2>
+
+<p>
+Instalación de cámaras CCTV, alarmas, cercas eléctricas,
+control de acceso y videovigilancia para hogares y empresas.
+</p>
+
+<a class="boton" href="https://wa.me/TUNUMERO">
+Solicitar Cotización
+</a>
+
+</section>
+
+<section>
+
+<h2>Nuestros Servicios</h2>
+
+<div id="productos">
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 PCCS Mexico</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
